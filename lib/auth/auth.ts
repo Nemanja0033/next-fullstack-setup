@@ -5,7 +5,7 @@ import {
     signOut,
     signInWithPopup
   } from 'firebase/auth'
-  import { auth } from './firebaseConfig'
+  import { auth } from '../firebaseConfig'
   
   export async function registerUser(email: string, password: string) {
     try {
