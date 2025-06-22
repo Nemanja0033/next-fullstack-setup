@@ -6,6 +6,8 @@ import {
     signInWithPopup
   } from 'firebase/auth'
   import { auth } from '../firebaseConfig'
+
+  // This file contains functions for user authentication using Firebase Authentication.
   
   export async function registerUser(email: string, password: string) {
     try {

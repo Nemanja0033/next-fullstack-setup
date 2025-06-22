@@ -14,7 +14,13 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Message {
-  id        String   @id @default(cuid())
-  content   String
-}
+// Here define your data models.
+// Each model corresponds to a table in your database.
+// You can use the Prisma CLI to generate the client and migrate your database.
+// Learn more about data modeling in the docs: https://pris.ly/d/prisma-schema
+
+// model Message {
+//   id        String   @id @default(cuid())
+//   content   String
+//  . . .
+// }
