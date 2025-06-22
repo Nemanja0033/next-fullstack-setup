@@ -2,7 +2,7 @@
 
 A minimal, optimized production-ready fullstack starter template built with:
 
-- **Next.js 14 (App Router + Server Components)**
+- **Next.js 15 (App Router + Server Components)**
 - **Tailwind CSS + shadcn/ui**
 - **Prisma ORM + PostgreSQL**
 - **Firebase Authentication (Email & Google)**
