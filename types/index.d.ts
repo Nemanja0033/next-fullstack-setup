@@ -1,0 +1,1 @@
+// Types, Enums, and Interfaces for the application
