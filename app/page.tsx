@@ -1,5 +1,6 @@
 "use client";
 import { Button } from "@/components/ui/button";
+import { uploadFile } from "@/lib/upload/upload";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@radix-ui/react-tooltip";
 import { motion } from "framer-motion";
 import { Github } from "lucide-react";
