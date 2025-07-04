@@ -1,4 +1,4 @@
-# 🚀 Next Fullstack Toolkit
+# 🚀 Next Fullstack Toolkit: Everything you need from basic CRUD to advanced.
 
 A minimal, optimized production-ready fullstack starter template built with:
 
